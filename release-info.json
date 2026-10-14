@@ -1,6 +1,6 @@
 {
   "product": "CentralisationService.Client",
-  "version": "1.1.0.0",
+  "version": "1.1.0.1",
   "runtime": "win-x64",
   "targetFramework": "net10.0",
   "selfContained": true,
@@ -15,7 +15,7 @@
       "version": "10.0.8"
     }
   ],
-  "builtAtUtc": "2026-10-12T09:32:39.229Z",
+  "builtAtUtc": "2026-10-14T13:53:27.383Z",
   "localUrl": "http://127.0.0.1:5176/login",
   "backendIncluded": false,
   "windowsExecutionVerified": false

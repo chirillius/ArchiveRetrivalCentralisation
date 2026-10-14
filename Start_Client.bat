@@ -1,6 +1,6 @@
 @echo off
 setlocal
-title Centralisation Client 1.1.0.0
+title Centralisation Client 1.1.0.1
 set "CLIENT_PORT=5176"
 pushd "%~dp0"
 if errorlevel 1 exit /b 1
