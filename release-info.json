@@ -1,6 +1,6 @@
 {
   "product": "CentralisationService.Client",
-  "version": "1.1.0.1",
+  "version": "1.1.0.5",
   "runtime": "win-x64",
   "targetFramework": "net10.0",
   "selfContained": true,
@@ -15,8 +15,13 @@
       "version": "10.0.8"
     }
   ],
-  "builtAtUtc": "2026-10-14T13:53:27.383Z",
+  "builtAtUtc": "2026-10-15T14:21:37.662Z",
   "localUrl": "http://127.0.0.1:5176/login",
   "backendIncluded": false,
-  "windowsExecutionVerified": false
+  "windowsExecutionVerified": true,
+  "automaticUpdates": {
+    "enabled": true,
+    "bootstrapRequired": false,
+    "descriptor": "updater-bootstrap.json"
+  }
 }
